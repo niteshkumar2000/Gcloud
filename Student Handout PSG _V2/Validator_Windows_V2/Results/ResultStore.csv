@@ -1,0 +1,316 @@
+mock_sys_test,Sanity,Verify that Upload of a file works fine,Pass,2020-01-31 16:53:16.540544,PRSUBRAMA-LT
+mock_sys_test,Sanity,Verify that list operation of files works fine,Pass,2020-01-31 16:53:48.150440,PRSUBRAMA-LT
+mock_sys_test,Sanity,Verify that Download of a file works fine,Pass,2020-01-31 16:53:51.122993,PRSUBRAMA-LT
+mock_sys_test,Sanity,Verify that delete operation works fine,Pass,2020-01-31 16:53:56.358624,PRSUBRAMA-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-01 20:49:05.040934,PRSUBRAMA-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-01 20:49:08.692888,PRSUBRAMA-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-01 20:49:10.472811,PRSUBRAMA-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-01 20:49:12.191058,PRSUBRAMA-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 07:29:32.690974,SRRAVINDR-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 07:29:43.642406,SRRAVINDR-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-02 07:29:45.180846,SRRAVINDR-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-02 07:29:46.722472,SRRAVINDR-LT
+12PW36_2,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 07:40:13.275818,SRRAVINDR-LT
+12PW36_2,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 07:40:14.433313,SRRAVINDR-LT
+12PW36_2,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-02 07:40:15.687905,SRRAVINDR-LT
+12PW36_2,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-02 07:40:16.848839,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 07:40:29.202978,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 07:40:30.323131,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 07:40:31.456356,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 07:40:32.823099,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 07:40:33.810069,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 07:40:35.185371,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 07:40:36.234104,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 07:40:37.510609,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 07:40:38.729367,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Pass,2020-02-02 07:40:39.910468,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 07:42:20.575890,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 07:42:21.932472,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 07:42:23.207879,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 07:42:24.464832,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 07:42:25.618935,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 07:42:26.958455,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 07:42:28.176539,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 07:42:29.478091,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 07:42:30.756217,SRRAVINDR-LT
+12PW36_2,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Pass,2020-02-02 07:42:32.083211,SRRAVINDR-LT
+12PW36_2,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Delete all the files on the server_M3,Pass,2020-02-02 07:42:33.734963,SRRAVINDR-LT
+12PW36_2,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Verify Load Balancing        - Have a known configuration of node count and chunk size        - Load a sequence of files with specific sizes        - Check the file count and distribution of load,Pass,2020-02-02 07:42:35.374033,SRRAVINDR-LT
+12PW36_2,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Delete all the files on the server_M34,Pass,2020-02-02 07:42:36.716769,SRRAVINDR-LT
+12PW36_2,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,"Verify redundancy         - Have a known configuration of node count , chunk size  and redunduncy level        - Load a sequence of files with specific sizes        - Delete number of nodes as redunduncy specification        - Check if the files can be retrived",Pass,2020-02-02 07:42:38.117631,SRRAVINDR-LT
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 08:31:23.129398,DESKTOP-GUSQ62N
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 08:31:39.299403,DESKTOP-GUSQ62N
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-02 08:31:40.967115,DESKTOP-GUSQ62N
+mock_sys_test,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-02 08:31:42.415398,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 11:53:45.478848,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 11:53:46.737532,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Fail,2020-02-02 11:53:47.953021,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Fail,2020-02-02 11:53:49.091969,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Fail,2020-02-02 11:56:21.609337,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 11:56:22.739689,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Fail,2020-02-02 11:56:23.869437,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Fail,2020-02-02 11:56:25.032665,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 12:02:07.362277,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 12:02:08.537902,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Fail,2020-02-02 12:02:09.693025,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Fail,2020-02-02 12:02:10.795002,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 12:02:45.345999,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 12:02:46.438193,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Fail,2020-02-02 12:02:50.218303,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Fail,2020-02-02 12:02:51.316465,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 12:09:20.019036,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 12:09:21.203788,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-02 12:09:24.405330,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-02 12:09:25.722650,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 12:14:41.038332,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 12:14:42.170743,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:14:43.292289,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:14:46.231380,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:14:47.330461,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 12:14:51.611757,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:14:54.146505,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:14:55.295755,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:14:56.576824,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:14:57.826180,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 12:15:56.159748,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 12:15:57.276939,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-02 12:15:58.359209,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-02 12:15:59.456304,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 12:16:06.723221,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 12:16:07.815934,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:16:08.906578,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:16:09.995495,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:16:11.103647,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 12:16:12.273643,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:16:13.339916,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:16:14.487995,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:16:15.714465,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:16:16.815348,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 12:22:11.810263,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 12:22:13.011100,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:22:14.326384,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:22:15.515847,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:22:16.683867,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 12:22:17.950604,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:22:19.115585,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:22:20.301672,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:22:21.671147,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:22:22.898242,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 12:24:14.060728,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 12:24:15.199656,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-02 12:24:16.353562,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-02 12:24:17.500953,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 12:24:23.079645,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 12:24:24.245797,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:24:27.588780,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:24:30.448782,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:24:31.552982,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 12:24:34.447024,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:24:35.584633,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:24:40.024417,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:25:23.297847,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 12:26:08.028204,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 12:26:09.160184,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:26:10.383505,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:26:11.617608,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:26:12.781183,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 12:26:14.036578,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:26:15.160316,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:26:16.348260,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:26:17.733389,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:26:18.991034,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 12:27:51.938601,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 12:27:53.180570,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:27:54.350443,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Fail,2020-02-02 12:27:55.558265,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:27:59.459817,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 12:27:59.830863,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:28:11.403268,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Fail,2020-02-02 12:28:12.618519,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:28:14.136996,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:28:15.312386,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 12:28:26.987786,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 12:28:28.125691,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Fail,2020-02-02 12:28:29.320879,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Fail,2020-02-02 12:28:30.538979,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:28:31.641726,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 12:28:32.858206,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:28:34.003158,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Fail,2020-02-02 12:28:35.263042,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:28:36.423283,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:28:37.639036,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 12:28:47.995418,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 12:28:49.480003,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Fail,2020-02-02 12:28:50.694249,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Fail,2020-02-02 12:28:51.969544,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:28:53.095041,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 12:28:54.275442,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:28:55.370284,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Fail,2020-02-02 12:28:56.596273,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:28:57.904765,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:28:59.110314,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Fail,2020-02-02 12:29:21.417032,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 12:29:22.598248,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Fail,2020-02-02 12:29:23.766637,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Fail,2020-02-02 12:29:24.939954,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 12:37:57.056673,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 12:38:00.288162,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Fail,2020-02-02 12:38:03.526464,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Fail,2020-02-02 12:38:06.680201,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Fail,2020-02-02 12:38:09.999030,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 12:38:13.279442,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Fail,2020-02-02 12:38:16.470630,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Fail,2020-02-02 12:38:19.689793,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:38:22.858675,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:38:26.105129,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 12:38:57.542425,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 12:38:58.701326,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:38:59.910356,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:39:01.178998,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:39:02.350973,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 12:39:03.586692,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:39:04.742001,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:39:05.921460,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:39:07.106115,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:39:08.349996,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 12:43:29.306783,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 12:43:30.479865,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:43:31.737277,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:43:32.902443,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:43:34.046941,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 12:43:35.227993,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:43:36.394578,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:43:37.511414,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:43:38.872982,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:43:40.258963,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 12:54:30.333319,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 12:54:31.568489,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:54:32.773416,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:54:33.871889,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:54:34.940527,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 12:54:36.453388,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:54:37.563757,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:54:38.829303,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:54:40.185070,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:54:41.438971,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 12:55:46.958420,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 12:55:48.067243,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 12:55:49.438537,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 12:55:50.664486,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 12:55:51.804354,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 12:55:53.040155,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 12:55:54.124261,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 12:55:55.368743,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 12:55:56.976933,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 12:55:58.291682,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 13:01:54.218080,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Fail,2020-02-02 13:01:56.033246,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:01:57.891577,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 13:01:59.968732,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:02:04.341547,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 13:02:05.666521,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:02:07.214726,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 13:02:09.431669,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 13:02:10.746242,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 13:02:12.039108,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 13:03:04.738514,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 13:03:05.928345,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:03:07.616957,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 13:03:09.034342,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:03:10.506407,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 13:03:12.941466,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:03:14.355901,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 13:03:15.615185,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 13:03:17.502871,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 13:03:18.642000,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Fail,2020-02-02 13:22:18.977859,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 13:22:20.316560,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:22:21.499844,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 13:22:22.728625,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:22:23.864171,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 13:22:25.072761,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:22:26.187783,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 13:22:27.413605,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 13:22:28.701783,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Pass,2020-02-02 13:22:30.375969,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 13:22:46.835714,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 13:22:48.309610,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:22:49.883104,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 13:22:52.063441,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:22:53.856389,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 13:22:55.385030,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:22:56.560825,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 13:22:57.722157,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Fail,2020-02-02 13:22:59.046435,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Pass,2020-02-02 13:23:00.237330,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 13:27:52.870496,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 13:27:53.988670,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:27:55.154534,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Fail,2020-02-02 13:27:56.522060,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:27:57.664886,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 13:27:58.843995,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:27:59.953589,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Fail,2020-02-02 13:28:01.130126,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Pass,2020-02-02 13:28:02.356267,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 13:28:03.581074,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 13:28:21.776540,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 13:28:23.028939,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:28:24.181094,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Fail,2020-02-02 13:28:25.428196,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:28:26.571834,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Fail,2020-02-02 13:28:27.677449,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:28:28.790909,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Fail,2020-02-02 13:28:29.990869,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Pass,2020-02-02 13:28:31.202068,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Fail,2020-02-02 13:28:32.380855,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 13:30:47.239555,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 13:30:48.436192,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:30:49.571114,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 13:30:50.742255,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:30:51.814490,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 13:30:52.906222,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:30:53.936479,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 13:30:55.062824,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Pass,2020-02-02 13:30:56.200661,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Pass,2020-02-02 13:30:57.334599,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 13:33:56.883234,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 13:33:58.094948,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 13:33:59.246467,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 13:34:00.395972,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 13:34:01.555556,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 13:34:02.846450,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 13:34:03.979236,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 13:34:05.162973,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Pass,2020-02-02 13:34:06.456275,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Pass,2020-02-02 13:34:07.622207,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Delete all the files on the server_M3,Pass,2020-02-02 13:34:09.562849,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Verify Load Balancing        - Have a known configuration of node count and chunk size        - Load a sequence of files with specific sizes        - Check the file count and distribution of load,Fail,2020-02-02 13:34:10.898454,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Delete all the files on the server_M34,Pass,2020-02-02 13:34:12.047531,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,"Verify redundancy         - Have a known configuration of node count , chunk size  and redunduncy level        - Load a sequence of files with specific sizes        - Delete number of nodes as redunduncy specification        - Check if the files can be retrived",Fail,2020-02-02 13:34:13.212924,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 14:00:26.291236,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Fail,2020-02-02 14:03:02.947377,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Fail,2020-02-02 14:03:11.615815,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Fail,2020-02-02 14:03:16.039013,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Fail,2020-02-02 14:03:18.263585,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 14:03:39.443537,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 14:05:19.970435,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Pass,2020-02-02 14:05:23.685937,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Pass,2020-02-02 14:07:06.615258,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Upload of a file works fine,Pass,2020-02-02 14:50:28.712962,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that list operation of files works fine,Pass,2020-02-02 14:50:33.161968,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that Download of a file works fine,Fail,2020-02-02 14:51:10.794561,DESKTOP-GUSQ62N
+17PW24,Sanity__526ec12f5a4379db6883fda443e5b23f50c91706,Verify that delete operation works fine,Fail,2020-02-02 14:51:26.582592,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Delete all the files on the server,Pass,2020-02-02 18:45:25.393381,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the list Files returns no files when there are no files to be displayed,Pass,2020-02-02 18:45:26.510348,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the a file can be uploaded successfully,Pass,2020-02-02 18:45:27.594472,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that the uploaded file can be reterived sucessfully - Verify check sum before upload and after reterive,Pass,2020-02-02 18:45:28.978026,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,"Verify that when there are files , the list call displays the files correctly",Pass,2020-02-02 18:45:30.066216,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that a delete operation happens successfully,Pass,2020-02-02 18:45:31.513465,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that appopriate error message is displayed while trying to access a file that doesnt exist,Pass,2020-02-02 18:45:32.958993,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that an error is returned while trying to upload a duplicate file,Pass,2020-02-02 18:45:34.283345,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that files of various names are accepted during upload,Pass,2020-02-02 18:45:35.758766,DESKTOP-GUSQ62N
+17PW24,Milestone-1__029dde7697d77476f47bcb6a0d7fbd95edee07b6,Verify that 404 is returned while trying to delete a file that does not exist,Pass,2020-02-02 18:45:36.965497,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Delete all the files on the server_M3,Pass,2020-02-02 18:45:38.287390,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Verify Load Balancing        - Have a known configuration of node count and chunk size        - Load a sequence of files with specific sizes        - Check the file count and distribution of load,Fail,2020-02-02 18:45:39.473384,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,Delete all the files on the server_M34,Pass,2020-02-02 18:45:40.538152,DESKTOP-GUSQ62N
+17PW24,Milestone-3__f0c53a1b8594adb1046555604673530e94409369,"Verify redundancy         - Have a known configuration of node count , chunk size  and redunduncy level        - Load a sequence of files with specific sizes        - Delete number of nodes as redunduncy specification        - Check if the files can be retrived",Fail,2020-02-02 18:45:41.618272,DESKTOP-GUSQ62N
